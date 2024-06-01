@@ -3,6 +3,9 @@
 # Dump files
 dump/
 
+# Temp .REC files
+backend/uploads
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -60,6 +63,8 @@ coverage.xml
 *.pot
 *.po
 *.mo
+
+.anima
 
 # Django stuff:
 *.log
